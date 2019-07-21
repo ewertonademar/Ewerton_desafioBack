@@ -1,12 +1,5 @@
 Desafio (Back)
 
-Para que possamos conhecer um pouco mais sobre o seu trabalho, e mais especificamente sobre as suas
-habilidades de desenvolvimento de software, preparamos essa atividade bem simples, que poderá nos mostrar
-um pouco sobre a maneira que você organiza o seu código, a legibilidade dele, etc.]
-
-1. Você deve criar uma aplicação back end, atendendo os requisitos técnicos propostos.
-2. Hospedar seu código no GitHub.
-
 Requisitos Técnicos:
  Criar um sistema batch, em Java ou Python.
  Persistir os dados em uma base de dados SQL Server ou similar.
