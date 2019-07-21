@@ -3,6 +3,7 @@ Desafio (Back)
 Requisitos Técnicos:
 
  Criar um sistema batch, em Java ou Python.
+
  Persistir os dados em uma base de dados SQL Server ou similar.
 
 A ideia é basicamente a seguinte:
